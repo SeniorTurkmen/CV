@@ -13,28 +13,28 @@
 Senior Flutter Developer with over 5 years of experience working with the Flutter Framework and Dart Language. Possesses in-depth knowledge of web development stages, desktop, and mobile architectures. Proven track record in remote working environments. Experienced in volunteering for both local and national associations and charities. Adept at creating educational materials and articles on technology and software. Enthusiastic about learning new technologies and developing innovative projects.
 
 ### Skills
-- **Programming**: Flutter, Dart, App Publishment, Git, AWS, MongoDB, Firebase, SQL, Node.js
+- **Programming**: Flutter, Dart, Kotlin, Swift, App Publishment, Git, AWS, MongoDB, Firebase, SQL, Node.js
 - **Languages**: Turkish, English
 
 ### Experience
 
 **Mobile Developer, Algoritma (2023 - Present)**
-- Developed and maintained scooter rent and micro-mobility applications, enhancing user engagement by 20%.
+- Developed and maintained shareable vehicle rent and micro-mobility applications.
 
 **Flutter Developer, Dusyeri (2022 - 2023)**
 - Designed and implemented child-focused mobile and web super app, resulting in a 30% increase in user retention.
 
 **Flutter Developer, Guven Future (2021 - 2022)**
-- Led the development of Guven Hospital's official mobile and web applications, improving appointment booking efficiency by 25%.
+- Led the development of Guven Hospital's official mobile and web applications.
 
 **Flutter Developer, Freelance**
-- Successfully developed various Flutter applications for desktop, web, and mobile platforms, delivering projects 10% ahead of schedule.
+- Successfully developed various Flutter applications for desktop, web, and mobile platforms.
 
 **Flutter Developer, SambaPos (2020 - 2021)**
 - Please provide specific bullet points for this role to complete the revision.
 
 **Mobile App Developer, Yesil Science (2020 - 2021)**
-- Engineered mobile applications using Flutter for the Hobbycorn product, increasing user engagement by 15%.
+- Engineered mobile applications using Flutter for the Hobbycorn product.
 
 ### Education
 **Computer Engineering, Harran University, Sanliurfa (2016 - 2021)**
@@ -43,12 +43,12 @@ Senior Flutter Developer with over 5 years of experience working with the Flutte
 
 **TAKSIM (2024)**
 - **Company**: Bin Ulaşım ve Akıllı Şehir Teknolojileri A.Ş.
-- Developed a fully functional taxi app in Flutter within 2 months, focusing on ease and safety for passengers and drivers.
+- Developed a fully functional taxi match app in Flutter within 2 months, focusing on ease and safety for passengers and drivers.
 - **Website**: [Taksim](https://taksim.digital)
 
 **GO-SHARING (2023)**
 - **Company**: Bin Ulaşım ve Akıllı Şehir Teknolojileri A.Ş.
-- Managed and developed the Android side of the native vehicle-sharing app written in Kotlin and Swift, increasing user adoption by 25%.
+- Managed and developed the Android side of the native vehicle-sharing app written in Kotlin and Swift.
 - **Website**: [GO-SHARING](https://tr.go-sharing.com/en/)
 
 **BINBIN (2023)**
@@ -63,12 +63,12 @@ Senior Flutter Developer with over 5 years of experience working with the Flutte
 
 **ONEDOSE HEALTH (2021)**
 - **Company**: Guven Future
-- Created a BLE medical device chronic disease tracking app using Flutter, improving patient tracking by 30%.
+- Created a BLE medical device chronic disease tracking app using Flutter, improving the patients tracking.
 - **Website**: [OneDose Health](https://www.onedose.io/en/)
 
 **GUVENONLINE (2021)**
 - **Company**: Guven Future
-- Developed an online treatment and appointment application for Güven Hospital using Flutter, increasing appointment scheduling efficiency by 25%.
+- Developed an online treatment and appointment application for Güven Hospital using Flutter.
 - **Website**: [GuvenOnline](https://www.guveninternational.com)
   - **Android**: [GuvenOnline Android](https://play.google.com/store/apps/details?id=com.guvenfuture.mobile&gl=TR)
   - **iOS**: [GuvenOnline iOS](https://apps.apple.com/tr/app/güven-online/id1528965803?l=tr)
@@ -79,7 +79,7 @@ Senior Flutter Developer with over 5 years of experience working with the Flutte
 
 **HOBBYCORN (2021)**
 - **Company**: Yesil Science
-- Created a hobby-based social media application using Flutter, resulting in a 20% increase in user activity.
+- Created a hobby-based social media application using Flutter.
   - **Android**: [Hobbycorn Android](https://play.google.com/store/apps/details?id=com.yesilscience.hobbycorn)
   - **iOS**: [Hobbycorn iOS](https://apps.apple.com/tr/app/hobbycorn/id1537245676)
 
