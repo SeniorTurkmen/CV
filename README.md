@@ -1,100 +1,94 @@
-## Mustafa Turkmen
-### Flutter Developer
+# Mustafa Türkmen
+## Senior Mobile Developer • Mobile Team Lead
 
-**Contact Information:**
-- **Location**: Ankara
-- **Phone**: +90 (545) 414 9880
-- **Email**: iletisim@mustafatrkmn.com
-- **LinkedIn**: [seniorturkmen](https://linkedin.com/in/seniorturkmen)
-- **Twitter**: [@seniorturkmen](https://twitter.com/seniorturkmen)
-- **GitHub**: [@seniorturkmen](https://github.com/seniorturkmen)
+📍 **Location:** Ankara, Türkiye
+📧 **Email:** [iletisim@mustafatrkmn.com](mailto:iletisim@mustafatrkmn.com)
+🔗 **LinkedIn:** [linkedin.com/in/seniorturkmen](https://linkedin.com/in/seniorturkmen)
+💻 **GitHub:** [github.com/seniorturkmen](https://github.com/seniorturkmen)
+✍️ **Medium:** [medium.com/@seniorturkmen](https://medium.com/@seniorturkmen)
+🌐 **Website:** [mustafatrkmn.com](https://mustafatrkmn.com)
+📱 **Phone:** +90 (545) 414 9880
 
-### Summary
-Senior Flutter Developer with over 5 years of experience working with the Flutter Framework and Dart Language. Possesses in-depth knowledge of web development stages, desktop, and mobile architectures. Proven track record in remote working environments. Experienced in volunteering for both local and national associations and charities. Adept at creating educational materials and articles on technology and software. Enthusiastic about learning new technologies and developing innovative projects.
+---
 
-### Skills
-- **Programming**: Flutter, Dart, Kotlin, Swift, App Publishment, Git, AWS, MongoDB, Firebase, SQL, Node.js
-- **Languages**: Turkish, English
+## 🚀 About Me
 
-### Experience
+I’m a Senior Mobile Developer with over six years of experience building reliable, scalable, and high-performance mobile applications. My background includes leading major migration projects, architecting Super App structures, developing real-time mobility systems, and integrating BLE-based medical devices into healthcare applications.
 
-**Mobile Developer, Algoritma (2023 - Present)**
-- Developed and maintained shareable vehicle rent and micro-mobility applications.
+I enjoy taking ownership, improving developer experience, mentoring teammates, and shaping the technical direction of mobile teams. I’m looking for roles where I can combine hands-on development with technical leadership.
 
-**Flutter Developer, Dusyeri (2022 - 2023)**
-- Designed and implemented child-focused mobile and web super app, resulting in a 30% increase in user retention.
+---
 
-**Flutter Developer, Guven Future (2021 - 2022)**
-- Led the development of Guven Hospital's official mobile and web applications.
+## 🛠 Skills
 
-**Flutter Developer, Freelance**
-- Successfully developed various Flutter applications for desktop, web, and mobile platforms.
+* **Mobile Development:** Flutter, Dart, Kotlin, Swift, iOS, Android
+* **Architecture:** Clean Architecture, Modular Architecture, MVVM
+* **Connectivity & IoT:** BLE/Bluetooth, WebSocket, REST API
+* **Cloud & DevOps:** Firebase, Azure, CI/CD, Fastlane, Github, Git, Jira
+* **Integrations:** Google Maps, MapBox, Apple Pay, Google Pay, KYC Systems
 
-**Flutter Developer, SambaPos (2020 - 2021)**
-- Please provide specific bullet points for this role to complete the revision.
+---
 
-**Mobile App Developer, Yesil Science (2020 - 2021)**
-- Engineered mobile applications using Flutter for the Hobbycorn product.
+## 🏆 Signature Projects
 
-### Education
-**Computer Engineering, Harran University, Sanliurfa (2016 - 2021)**
+* **Ride-Sharing & Mobility:** Real-time location tracking, sockets, route management, driver/passenger flows.
+* **Medical IoT (BLE):** Device pairing, data streaming, GATT operations, packet parsing.
+* **Super App Ecosystems:** Modular architectures, multi-brand white-label foundations.
+* **AI-Enhanced Apps:** Interactive storytelling and smart UX flows.
 
-### Projects
+---
 
-**TAKSIM (2024)**
-- **Company**: Bin Ulaşım ve Akıllı Şehir Teknolojileri A.Ş.
-- Developed a fully functional taxi match app in Flutter within 2 months, focusing on ease and safety for passengers and drivers.
-- **Website**: [Taksim](https://taksim.digital)
+## 🎓 Education
 
-**GO-SHARING (2023)**
-- **Company**: Bin Ulaşım ve Akıllı Şehir Teknolojileri A.Ş.
-- Managed and developed the Android side of the native vehicle-sharing app written in Kotlin and Swift.
-- **Website**: [GO-SHARING](https://tr.go-sharing.com/en/)
+**Computer Engineering**
+*Harran University*
 
-**BINBIN (2023)**
-- **Company**: Bin Ulaşım ve Akıllı Şehir Teknolojileri A.Ş.
-- Rewrote the electric scooter renting app in Flutter, resulting in a more stable and responsive user experience.
-- **Website**: [BinBin](https://www.binbin.tech)
+## 💼 Experience
 
-**UPPY APP (2022)**
-- **Company**: Dusyeri Software and Animation Corp.
-- Developed a super app with embedded games, video content, and book reader modules, enhancing the overall user experience.
-- **Website**: [Uppy App](https://uppyforkids.com/)
+### Senior Mobile Developer | One Dose Health
+*Apr 2025 – Present | Türkiye (Hybrid)*
 
-**ONEDOSE HEALTH (2021)**
-- **Company**: Guven Future
-- Created a BLE medical device chronic disease tracking app using Flutter, improving the patients tracking.
-- **Website**: [OneDose Health](https://www.onedose.io/en/)
+* Leading development of mobile healthcare apps using Flutter.
+* Integrated BLE medical devices such as ECG, glucose meters, and blood pressure monitors.
+* Built scalable architecture and improved AI-powered workflows.
+* Strengthened CI/CD pipelines and coordinated closely with backend and hardware teams.
 
-**GUVENONLINE (2021)**
-- **Company**: Guven Future
-- Developed an online treatment and appointment application for Güven Hospital using Flutter.
-- **Website**: [GuvenOnline](https://www.guveninternational.com)
-  - **Android**: [GuvenOnline Android](https://play.google.com/store/apps/details?id=com.guvenfuture.mobile&gl=TR)
-  - **iOS**: [GuvenOnline iOS](https://apps.apple.com/tr/app/güven-online/id1528965803?l=tr)
-  - **Web App**: [GuvenOnline Web App](https://online.guven.com.tr)
+### Mobile Developer | Algoritma (Taksim | BinBin | GO Sharing)
+*Mar 2022 – Jan 2023 | Istanbul (Remote)*
 
-**KIOSK DESKTOP APP (2021)**
-- Developed a desktop application for restaurant kiosk machines using Flutter, streamlining the ordering process.
+**Taksim**
+* Rebuilt Driver & Passenger apps from scratch in Flutter within two months.
+* Developed real-time mobility features using MapBox, Sockets, and REST APIs.
+* Improved app performance, analytics, and market readiness.
 
-**HOBBYCORN (2021)**
-- **Company**: Yesil Science
-- Created a hobby-based social media application using Flutter.
-  - **Android**: [Hobbycorn Android](https://play.google.com/store/apps/details?id=com.yesilscience.hobbycorn)
-  - **iOS**: [Hobbycorn iOS](https://apps.apple.com/tr/app/hobbycorn/id1537245676)
+**BinBin**
+* Migrated the entire Xamarin codebase to Flutter in four months.
+* Owned Google Maps integration and contributed to turning the app into a Super App.
+* Helped build a white-label structure used across brands.
+* Collaborated with design teams for pixel-perfect UI implementation.
 
-**TRACKER APP (2020)**
-- Developed an app for tracking children when outdoors using Flutter.
-  - **GitHub**: [Tracker App](https://github.com/SeniorTurkmen/Tracker)
+**GO Sharing**
+* Maintained and extended the Netherlands-based native app (Kotlin/Swift).
+* Helped transition the product to Flutter.
+* Integrated Apple Pay & Google Pay with backend teams.
 
-### Volunteer Work
+### Flutter Developer | Düşyeri
+*Mar 2022 – Jan 2023 | Istanbul (Remote)*
 
-**Organizer, Flutter Ankara (2021 - 2023)**
-- Organized events focused on the Flutter Framework, bringing together Flutter enthusiasts and fostering a strong community.
+* Developed core modules for a Super App designed as a full ecosystem.
+* Implemented advanced animations and integrated Unity-based games.
 
-**Co-Founder, GDG-Sanliurfa (2018 - 2020)**
-- Established the first GDG Chapter in Eastern Turkey, promoting technology and software development in the region.
+### Flutter Developer | Güven Future
+*Jul 2021 – Mar 2022 | Ankara (Hybrid)*
 
-### Languages
-- Turkish
-- English
+* Built healthcare apps using Flutter for Güven Hospital’s R&D team.
+* Integrated BLE devices (scale, glucose meter, BP monitor).
+
+### Flutter Developer | Yeşil Science
+*Jul 2019 – Nov 2021 | Istanbul (Remote)*
+
+* Helped build a social-health platform during the pandemic.
+* Contributed to core architecture and app development.
+
+---
+
